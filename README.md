@@ -6,36 +6,36 @@ Using Reinforcement Learning to solve Maze Navigation, Acrobot, Mountain Car
 
 Run these commands in your Terminal:
 
-1. Value iteration:
+### 1. Maze Navigation problem:
+
+#### 1.1 Value iteration algorithm:
 
     python value_iteration.py
 
 Q_values.npy can be found in folder /result/.
 
 
-2. Q-learning:
+#### 1.2 Q-learning algorithm: 
 
     python qlearning_maze.py
 
+### 2. Open AI Acrobot problem:
 
-3. Gym:
-
-3.1 REINFORCE:
-
-    #for Mountain Car
-
-    python reinforce_car.py
-
-    #for Acrobot
+#### 2.1 REINFORCE using Neural network:
 
     python reinforce_bot.py
 
-3.2 Q-learning:
-
-    #for Mountain Car
-
-    python qlearning_gym.py car
-
-    #for Acrobot
+#### 2.2 Q-learning:
 
     python qlearning_gym.py bot
+
+
+### 3. Open AI Mountain Car problem:
+
+#### 3.1 REINFORCE using Neural network:
+
+    python reinforce_car.py
+
+#### 3.2 Q-learning:
+
+    python qlearning_gym.py car
