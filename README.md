@@ -6,6 +6,8 @@ Using various Reinforcement Learning algorithms to solve 3 problems:
 
 How to get from S to G in the Maze, and collect the most number of flags F along the way. There are 4 actions the robot can take: going UP, DOWN, LEFT, RIGHT.
 
+<img src="images/maze.png" width="40%">.
+
 ![maze](images/maze.png)
 
 2) Open AI Acrobot: 
