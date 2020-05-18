@@ -12,9 +12,6 @@ Run these commands in your Terminal:
 
     python value_iteration.py
 
-Q_values.npy can be found in folder /result/.
-
-
 #### 1.2 Q-learning algorithm: 
 
     python qlearning_maze.py
