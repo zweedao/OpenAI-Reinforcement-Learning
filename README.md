@@ -1,6 +1,14 @@
 # Reinforcemnent Learning
 
-Using Reinforcement Learning to solve Maze Navigation, Acrobot, Mountain Car
+Using various Reinforcement Learning algorithms to solve 3 problems: 
+
+1) Maze Navigation: How to get from S to G in the Maze, and collect the most number of flags F along the way. There are 4 actions the robot can take: going UP, DOWN, LEFT, RIGHT.
+
+
+
+2) Open AI Acrobot: 
+
+3) Open AI Mountain Car: 
 
 ## How to run
 
