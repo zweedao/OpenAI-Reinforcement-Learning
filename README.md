@@ -2,19 +2,19 @@
 
 Using various Reinforcement Learning algorithms to solve 3 problems: 
 
-1) Maze Navigation: 
+### 1. Maze Navigation
 
 How to get from S to G in the Maze, and collect the most number of flags F along the way. There are 4 actions the robot can take: going UP, DOWN, LEFT, RIGHT.
 
 <img src="images/maze.png" width="200px">
 
-2) [Open AI Acrobot](https://gym.openai.com/envs/Acrobot-v1/): 
+### 2. [Open AI Acrobot](https://gym.openai.com/envs/Acrobot-v1/) ([See video result](https://youtu.be/ecF-w1arABs))
 
 How to swing the bot’s arm to reach a certain height.
 
 <img src="images/acrobot.png" width="200px">
 
-3) [Open AI Mountain Car](https://gym.openai.com/envs/MountainCar-v0/): 
+### 3. [Open AI Mountain Car](https://gym.openai.com/envs/MountainCar-v0/) ([See video result](https://youtu.be/weExxc8X95Q))
 
 How to push & pull the car to make it reach the mountain’s top.
 
