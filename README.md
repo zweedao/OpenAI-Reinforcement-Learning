@@ -1,6 +1,6 @@
 # Reinforcemnent Learning
 
-Using various Reinforcement Learning algorithms to solve 3 problems: 
+Using various Reinforcement Learning algorithms to solve the following 3 problems. Full details can be found in `Project Report.pdf`.
 
 ### 1. Maze Navigation
 
