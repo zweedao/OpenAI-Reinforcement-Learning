@@ -8,13 +8,13 @@ How to get from S to G in the Maze, and collect the most number of flags F along
 
 <img src="images/maze.png" width="200px">
 
-2) Open AI Acrobot: 
+2) [Open AI Acrobot](https://gym.openai.com/envs/Acrobot-v1/): 
 
 How to swing the bot’s arm to reach a certain height.
 
 <img src="images/acrobot.png" width="200px">
 
-3) Open AI Mountain Car: 
+3) [Open AI Mountain Car](https://gym.openai.com/envs/MountainCar-v0/): 
 
 How to push & pull the car to make it reach the mountain’s top.
 
