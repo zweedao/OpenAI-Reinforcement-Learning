@@ -6,21 +6,19 @@ Using various Reinforcement Learning algorithms to solve 3 problems:
 
 How to get from S to G in the Maze, and collect the most number of flags F along the way. There are 4 actions the robot can take: going UP, DOWN, LEFT, RIGHT.
 
-<img src="images/maze.png" width="40%">.
-
-![maze](images/maze.png)
+<img src="images/maze.png" width="200px">
 
 2) Open AI Acrobot: 
 
 How to swing the bot’s arm to reach a certain height.
 
-![acrobot](images/acrobot.png)
+<img src="images/acrobot.png" width="200px">
 
 3) Open AI Mountain Car: 
 
 How to push & pull the car to make it reach the mountain’s top.
 
-![car](images/car.png)
+<img src="images/car.png" width="250px">
 
 ## How to run
 
